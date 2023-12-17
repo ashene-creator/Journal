@@ -118,3 +118,5 @@ int main() {
 }
 return 0;
 }
+
+With this code I did a good job selecting the correct functions to meet the program objectives, the main use of programs is to organize and compile data user data and displays it for users, I think I selected the functions that best achived that. The areas I need to work on is better planning I dont think this is my best work for this type of program, if this was my primary focus work wise and was able to plan better I think this could have worked better than it does. I am still learning C++ the more I practice this language the easier it will be for me to understand and explain the code things that are difficult for me starting is explaining things, I can understand how the functions or code works and why it needs to be that way but amd still familarizing myself with the termanology will stregthen my ability to communicate in writing how I understand it in my head. 
